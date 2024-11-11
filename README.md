@@ -2,7 +2,7 @@
 <h3 align="center">My interests include Web Development & App Development. Currently Exploring: React & Swift</h3>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+  <img align="center" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
