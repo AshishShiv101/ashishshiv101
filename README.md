@@ -8,8 +8,10 @@
   <a href="https://www.linkedin.com/in/ashish-s-a5273a22b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:ashishshiv8491@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+  <!-- Optional: Direct Gmail link -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashishshiv8491@gmail.com">
+    <img src="https://img.shields.io/badge/Compose%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -43,7 +45,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishshiv101&theme=shadow_green&hide_border=false" alt="GitHub Streak">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishshiv101&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
